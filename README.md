@@ -1,5 +1,7 @@
 # Project-Landing-Page
 
+The Odin Project landing page assignment.
+
 Credits for images:
 
 Bing AI (cat logo), cocoparisienne on https://pixabay.com/
